@@ -19,7 +19,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    /*background: url(/img/clock.png/clock1.png);*/
     background-size: cover;
     border: 4px solid #ea5c5c42;
     border-radius: 50%;
@@ -63,7 +62,6 @@ body {
 .hr, .mn, .sc {
     display: flex;
     justify-content: center;
-    /*align-items: center;*/
     position: absolute;
     border-radius: 50%;
 }
